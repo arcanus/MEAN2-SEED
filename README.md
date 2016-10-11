@@ -4,7 +4,7 @@
 * Express
 * Angular 2
 * NodeJS
-- - - -
+
 ### How To Use It:
 1) Clone this repo: **git clone git@github.com:arcanus/MEAN2-SEED.git my_dir**
 2) **cd my_dir**
