@@ -10,7 +10,7 @@
         "spec": "5.0.0-rc.1",
         "type": "version"
       },
-      "/home/paul/Repositorios/MEAN/test"
+      "/home/paul/Repositorios/MEAN/SEED"
     ]
   ],
   "_from": "rxjs@5.0.0-rc.1",
@@ -39,13 +39,14 @@
     "type": "version"
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/rxjs/-/rxjs-5.0.0-rc.1.tgz",
   "_shasum": "9e02b7044da81a2d5e138908d22af77e22d96973",
   "_shrinkwrap": null,
   "_spec": "rxjs@5.0.0-rc.1",
-  "_where": "/home/paul/Repositorios/MEAN/test",
+  "_where": "/home/paul/Repositorios/MEAN/SEED",
   "author": {
     "name": "Ben Lesh",
     "email": "blesh@netflix.com"
