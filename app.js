@@ -8,8 +8,9 @@ var mongoose = require('mongoose');
 
 var appRoutes = require('./routes/app');
 
-
 var app = express();
+
+mongoose.Promise = global.Promise;
 mongoose.connect('localhost:27017/mean2');
 
 // view engine setup
